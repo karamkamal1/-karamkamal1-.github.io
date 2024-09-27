@@ -1,5 +1,5 @@
 # Hey there, I'm Karam
-<a href="www.linkedin.com/in/karam-kamal-b38b61324"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/karam-kamal-b38b61324/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
 
