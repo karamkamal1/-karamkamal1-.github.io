@@ -17,7 +17,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 |Windows Domain Controller Configuration/ Active Directory configuration          | <a href="https://github.com/karamkamal1/Domain_Controller-Active-Directory_Configuration_Lab.md">Configuration Lab</a>|
 | Splunk & Sysmon Configuration / Deployment         | <a href="https://github.com/karamkamal1/Splunk_Configuration_and_Attack_Log_Analysis">Configuration Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Wireshark Malware Identification         | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
