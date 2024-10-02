@@ -8,7 +8,6 @@ I am a dedicated and passionate cybersecurity enthusiast with a recently acquire
 My journey in computer science and tinkering around with penetration testing from a young age has led me to develop a love for cybersecurity, and I am now eager to transition into the field. Specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst or any entry level IT / Cybersecurity Job.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
