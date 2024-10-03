@@ -31,6 +31,14 @@ My journey in computer science and tinkering around with penetration testing fro
 
 </div>
 
+### Automation
+<div>
+    <img src="https://img.shields.io/badge/-Lima%20Charlie-gray?&style=for-the-badge&logo=Lima-Charlie&logoColor=blue" />
+    <img src="https://img.shields.io/badge/-Tines-purple?&style=for-the-badge&logo=Tines&logoColor=white" />
+
+
+</div>
+
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
