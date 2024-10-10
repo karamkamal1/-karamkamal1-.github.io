@@ -15,7 +15,7 @@ My journey in computer science and tinkering around with penetration testing fro
 | Splunk & Sysmon Configuration / Deployment         | <a href="https://github.com/karamkamal1/Splunk_Configuration_and_Attack_Log_Analysis">Configuration Lab</a>|
 | Malware Identification using PCAP (Wireshark, Zui)         | <a href="https://github.com/karamkamal1/Wireshark_Network_Malware_Analysis">Analysis Lab</a>|
 | Security Orchestration Automation and Response (LimaCharlie, Tines)         | <a href="https://github.com/karamkamal1/SOAR_EDR_Lab">Automation Lab</a>|
-| Creation and Testing of YARA Rules      |<a href="https://github.com/karamkamal1/SOAR_EDR_Lab">YARA Rules</a>|
+| Creation and Testing of YARA Rules      |<a href="https://github.com/karamkamal1/YARA_Rules">YARA Rules</a>|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
