@@ -16,8 +16,6 @@ My journey in computer science and tinkering around with penetration testing fro
 | Malware Identification using PCAP (Wireshark, Zui)         | <a href="https://github.com/karamkamal1/Wireshark_Network_Malware_Analysis">Analysis Lab</a>|
 | Security Orchestration Automation and Response (LimaCharlie, Tines)         | <a href="https://github.com/karamkamal1/SOAR_EDR_Lab">Automation Lab</a>|
 | Creation and Testing of YARA Rules      |<a href="https://github.com/karamkamal1/YARA_Rules">YARA Rules</a>|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
 
@@ -34,12 +32,6 @@ My journey in computer science and tinkering around with penetration testing fro
     <img src="https://img.shields.io/badge/-Lima%20Charlie-gray?&style=for-the-badge&logo=Lima-Charlie&logoColor=blue" />
     <img src="https://img.shields.io/badge/-Tines-purple?&style=for-the-badge&logo=Tines&logoColor=white" />
     <img src="https://img.shields.io/badge/-YARA%20Rules-black?&style=for-the-badge&logo=YARA&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
 ### SIEM
