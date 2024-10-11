@@ -49,7 +49,3 @@ My journey in computer science and tinkering around with penetration testing fro
 
 
 </div>
-
-## Projects
-- Detection Lab
-- SOC Automation Project
