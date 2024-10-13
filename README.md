@@ -46,6 +46,6 @@ My journey in computer science and tinkering around with penetration testing fro
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
 <img src="https://img.shields.io/badge/-Splunk%20101-000000?style=for-the-badge&logo=Splunk&logoColor=white" />
 <img src="https://img.shields.io/badge/-Splunk%20102-000000?style=for-the-badge&logo=Splunk&logoColor=white" />
-
+<img src="https://img.shields.io/badge/-Azure%20Fundamentals%20AZ--900-0089D6?style=for-the-badge&logo=microsoft&logoColor=white" />
 
 </div>
