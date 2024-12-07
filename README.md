@@ -5,7 +5,7 @@ I am a dedicated and passionate IT and Cybersecurity. I am a Certified Microsoft
 
 ## Objective
 
-My journey in computer science and tinkering around with penetration testing from a young age has led me to develop a love for Cloud Computing, IaaS and cybersecurity, I am now eager to transition into the field. Specifically aiming to work in Cloud Infastructre and Security.
+My journey in computer science and tinkering around with penetration testing from a young age has led me to develop a love for Cloud Computing, IaaS and cybersecurity, I am now eager to transition into the field. Specifically aiming to work in Cloud Infrastructre and Security.
 
 ## Skills
 
