@@ -1,7 +1,7 @@
 # Hey there, I'm Karam
 <a href="https://www.linkedin.com/in/karam-kamal-microsoft-security-engineer-associate-b38b61324"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a Certified Microsoft Azure Security Engineer Associate and CompTIA Security+ professional, with additional certifications that reinforce my expertise in IT and cybersecurity. As an incredibly passionate IT professional, I am driven by a love for learning, improving, and becoming more efficient and impactful in the field I deeply care about.
+I work in IT operations at Carmela Industries I am also a Certified Microsoft Azure Security Engineer Associate and CompTIA Security+ professional, with additional certifications that reinforce my expertise in IT and cybersecurity. As an incredibly passionate IT professional, I am driven by a love for learning, improving, and becoming more efficient and impactful in the field I deeply care about.
 
 If I could offer one piece of advice, it would be: "A master has failed more times than a beginner has tried." Success comes from persistence, resilience, and a commitment to continuous growth.
 
